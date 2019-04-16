@@ -1,0 +1,4 @@
+## .gitignore file for ccache-scaffold
+
+## ignore folder fetched through gclient
+ccache
